@@ -2,3 +2,5 @@ github.com/muhamadtauf/go-say-hello v1.0.0 h1:/KBoc98qlmYI5SlxIz00kf+IQ9GbEI5dYm
 github.com/muhamadtauf/go-say-hello v1.0.0/go.mod h1:hIZU+o6ZakFiLELpeWUUr1wKoQELRnrQ57GToZrxKR0=
 github.com/muhamadtauf/go-say-hello v1.5.0 h1:G3oVK9PLMNFhCfiN4T/ABp7yPsK2I9KE1Si4wRjADR0=
 github.com/muhamadtauf/go-say-hello v1.5.0/go.mod h1:hIZU+o6ZakFiLELpeWUUr1wKoQELRnrQ57GToZrxKR0=
+github.com/muhamadtauf/go-say-hello/v2 v2.0.0 h1:gCcc7i3RLWnAmTutgwltr0yBlwqrFFQShKcy9kU6WAQ=
+github.com/muhamadtauf/go-say-hello/v2 v2.0.0/go.mod h1:p6P5eMHI2rvV5YOdxczmeGsdvpW6K6gpFd5DVBy0/NY=
